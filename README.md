@@ -17,6 +17,8 @@
 
 ✅ دانلودر مستهجن فلان هاب هم توشه فقط کافیه لینک صفحه رو بهش بدی.
 
+✅ دانلود ویدیو های یوتیوب در کیفیت دلخواه
+
 
 
 
@@ -100,3 +102,15 @@
 ---
 
 **لطفاً 🌟 ستاره** فراموش نشه!
+
+
+
+
+### Star History
+<a href="https://star-history.com/#Kurdeus/Meli-Action&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Kurdeus/Meli-Action&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Kurdeus/Meli-Action&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Kurdeus/Meli-Action&type=Date" />
+ </picture>
+</a>
